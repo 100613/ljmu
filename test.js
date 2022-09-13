@@ -1,4 +1,6 @@
 //first NodeJS application 
+git config --global user.email "100613@oryx.edu.qa"
+git config --global user.name "100613"
 
 const express = require('express') 
 const app = express() 
